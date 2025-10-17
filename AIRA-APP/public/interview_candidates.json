@@ -1,0 +1,115 @@
+[
+  {
+    "candidate_name": "Ananya Rao",
+    "candidate_email": "ananya.rao@example.com",
+    "candidate_phone": "+91 9876543210",
+    "recruiter_name": "R. Sharma",
+    "interview_score": 86,
+    "interview_verdict": "Hired",
+    "interview_time": "2025-10-10 11:00",
+    "resume_match_score": 92,
+    "job_name": "Software Engineer"
+  },
+  {
+    "candidate_name": "Vikram Singh",
+    "candidate_email": "vikram.singh@example.com",
+    "candidate_phone": "+91 9812345678",
+    "recruiter_name": "M. Iyer",
+    "interview_score": 74,
+    "interview_verdict": "On Hold",
+    "interview_time": "2025-10-12 14:30",
+    "resume_match_score": 88,
+    "job_name": "Data Analyst"
+  },
+  {
+    "candidate_name": "Priya Nair",
+    "candidate_email": "priya.nair@example.com",
+    "candidate_phone": "+91 9990011223",
+    "recruiter_name": "S. Kulkarni",
+    "interview_score": 62,
+    "interview_verdict": "Rejected",
+    "interview_time": "2025-10-13 10:15",
+    "resume_match_score": 80,
+    "job_name": "Product Manager"
+  },
+  {
+    "candidate_name": "Rohit Mehta",
+    "candidate_email": "rohit.mehta@example.com",
+    "candidate_phone": "+91 9123456789",
+    "recruiter_name": "K. Banerjee",
+    "interview_score": null,
+    "interview_verdict": null,
+    "interview_time": "2025-10-16 15:30",
+    "resume_match_score": 85,
+    "job_name": "UX Designer"
+  },
+  {
+    "candidate_name": "Neha Gupta",
+    "candidate_email": "neha.gupta@example.com",
+    "candidate_phone": "+91 9988776655",
+    "recruiter_name": "A. Desai",
+    "interview_score": null,
+    "interview_verdict": null,
+    "interview_time": "2025-10-16 16:00",
+    "resume_match_score": 90,
+    "job_name": "Marketing Specialist"
+  },
+  {
+    "candidate_name": "Arjun Verma",
+    "candidate_email": "arjun.verma@example.com",
+    "candidate_phone": "+91 9977554433",
+    "recruiter_name": "T. Reddy",
+    "interview_score": null,
+    "interview_verdict": null,
+    "interview_time": "2025-10-18 11:45",
+    "resume_match_score": 77,
+    "job_name": "Software Engineer"
+
+  },
+  {
+    "candidate_name": "Sneha Patil",
+    "candidate_email": "sneha.patil@example.com",
+    "candidate_phone": "+91 9876501234",
+    "recruiter_name": "P. Menon",
+    "interview_score": null,
+    "interview_verdict": null,
+    "interview_time": "2025-10-19 09:30",
+    "resume_match_score": 84,
+    "job_name": "Software Engineer"
+
+  },
+  {
+    "candidate_name": "Karthik Subramanian",
+    "candidate_email": "karthik.subramanian@example.com",
+    "candidate_phone": "+91 9822334455",
+    "recruiter_name": "J. D'Souza",
+    "interview_score": 91,
+    "interview_verdict": "Hired",
+    "interview_time": "2025-10-11 12:00",
+    "resume_match_score": 95,
+    "job_name": "Software Engineer"
+
+  },
+  {
+    "candidate_name": "Ishita Kapoor",
+    "candidate_email": "ishita.kapoor@example.com",
+    "candidate_phone": "+91 9876678901",
+    "recruiter_name": "L. Chatterjee",
+    "interview_score": 55,
+    "interview_verdict": "Rejected",
+    "interview_time": "2025-10-09 16:00",
+    "resume_match_score": 70,
+    "job_name": "Data Analyst"
+  },
+  {
+    "candidate_name": "Ahmed Khan",
+    "candidate_email": "ahmed.khan@example.com",
+    "candidate_phone": "+91 9898989898",
+    "recruiter_name": "B. Thomas",
+    "interview_score": null,
+    "interview_verdict": null,
+    "interview_time": "2025-10-16 17:30",
+    "resume_match_score": 82,
+    "job_name": "Product Manager"
+  }
+]

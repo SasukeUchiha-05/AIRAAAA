@@ -1,0 +1,98 @@
+[
+  {
+    "Candidate_name": "Ananya Rao",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-10 11:00",
+    "Interviewer_name": "R. Sharma",
+    "Interview_Score": 86,
+    "Interview_verdict": "Hired"
+  },
+  {
+    "Candidate_name": "Vikram Singh",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-12 14:30",
+    "Interviewer_name": "M. Iyer",
+    "Interview_Score": 74,
+    "Interview_verdict": "On Hold"
+  },
+  {
+    "Candidate_name": "Priya Nair",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-13 10:15",
+    "Interviewer_name": "S. Kulkarni",
+    "Interview_Score": 62,
+    "Interview_verdict": "Rejected"
+  },
+  {
+    "Candidate_name": "Rohit Mehta",
+    "Interview_status": "Ongoing",
+    "Interview_date": "2025-10-16 15:30",
+    "Interviewer_name": "K. Banerjee",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  },
+  {
+    "Candidate_name": "Neha Gupta",
+    "Interview_status": "Ongoing",
+    "Interview_date": "2025-10-16 16:00",
+    "Interviewer_name": "A. Desai",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  },
+  {
+    "Candidate_name": "Arjun Verma",
+    "Interview_status": "Not Started",
+    "Interview_date": "2025-10-18 11:45",
+    "Interviewer_name": "T. Reddy",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  },
+  {
+    "Candidate_name": "Sneha Patil",
+    "Interview_status": "Not Started",
+    "Interview_date": "2025-10-19 09:30",
+    "Interviewer_name": "P. Menon",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  },
+  {
+    "Candidate_name": "Karthik Subramanian",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-11 12:00",
+    "Interviewer_name": "J. D'Souza",
+    "Interview_Score": 91,
+    "Interview_verdict": "Hired"
+  },
+  {
+    "Candidate_name": "Ishita Kapoor",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-09 16:00",
+    "Interviewer_name": "L. Chatterjee",
+    "Interview_Score": 55,
+    "Interview_verdict": "Rejected"
+  },
+  {
+    "Candidate_name": "Ahmed Khan",
+    "Interview_status": "Ongoing",
+    "Interview_date": "2025-10-16 17:30",
+    "Interviewer_name": "B. Thomas",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  },
+  {
+    "Candidate_name": "Meera Joshi",
+    "Interview_status": "Completed",
+    "Interview_date": "2025-10-08 10:00",
+    "Interviewer_name": "C. Roy",
+    "Interview_Score": 79,
+    "Interview_verdict": "On Hold"
+  },
+  {
+    "Candidate_name": "Sanjay Kumar",
+    "Interview_status": "Not Started",
+    "Interview_date": "2025-10-21 13:15",
+    "Interviewer_name": "H. Srinivasan",
+    "Interview_Score": null,
+    "Interview_verdict": null
+  }
+]
